@@ -12,7 +12,7 @@ This project is a simple Python web scraper designed to extract job listings fro
 *   **Robust Error Handling:** Includes `try-except` blocks to manage network errors and safe element extraction techniques to handle potentially missing data gracefully.
 *   **CSV Export:** Saves all scraped data into a clean, formatted CSV file (`fake_python_jobs.csv`) using the built-in `csv` module.
   
-## Project URL-: https://github.com/rdivyanshu20/Python-Job-Listings-Scraper/blob/main/scraper.py
+## Project URL-: https://roadmap.sh/projects/job-listings-scraper
 
 ## Prerequisites
 
