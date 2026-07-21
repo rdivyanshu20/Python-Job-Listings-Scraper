@@ -11,6 +11,8 @@ This project is a simple Python web scraper designed to extract job listings fro
 *   **Data Extraction:** Accurately extracts the Job Title, Company Name, Location, and the URL to the full job description.
 *   **Robust Error Handling:** Includes `try-except` blocks to manage network errors and safe element extraction techniques to handle potentially missing data gracefully.
 *   **CSV Export:** Saves all scraped data into a clean, formatted CSV file (`fake_python_jobs.csv`) using the built-in `csv` module.
+  
+## Project URL-: https://github.com/rdivyanshu20/Python-Job-Listings-Scraper/blob/main/scraper.py
 
 ## Prerequisites
 
@@ -20,4 +22,3 @@ Install the required packages using pip:
 
 ```bash
 pip install requests beautifulsoup4
-## Project URL-: https://github.com/rdivyanshu20/Python-Job-Listings-Scraper/blob/main/scraper.py
