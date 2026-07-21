@@ -20,3 +20,4 @@ Install the required packages using pip:
 
 ```bash
 pip install requests beautifulsoup4
+## Project URL-: https://github.com/rdivyanshu20/Python-Job-Listings-Scraper/blob/main/scraper.py
